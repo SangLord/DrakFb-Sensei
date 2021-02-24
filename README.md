@@ -12,12 +12,11 @@ Script hack fb ini akan secara otomatis hack akun Facebook dari nomor telepon ya
 ```
 # Install
 ```
-• git clone https://github.com/NoobHackersCOM/Sensei
-• cd Sensei
+• git clone https://github.com/SangLord/DrakFb-Sensei
+• cd DarkFb-Sensei
 • python2 main.py
 ```
-Tutorial lengkap di:
-https://indoxploit.id
+
 
 # Bitcoin Walet
 
